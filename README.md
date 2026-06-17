@@ -7,4 +7,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0608-tree-node](https://github.com/tasneemghonemy-png/LeetCode-Solutions/tree/master/0608-tree-node) |
+| [0626-exchange-seats](https://github.com/tasneemghonemy-png/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
