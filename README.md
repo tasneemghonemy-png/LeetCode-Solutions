@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/tasneemghonemy-png/LeetCode-Solutions/tree/master/0608-tree-node) |
 | [0626-exchange-seats](https://github.com/tasneemghonemy-png/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/tasneemghonemy-png/LeetCode-Solutions/tree/master/1045-customers-who-bought-all-products) |
+| [1070-product-sales-analysis-iii](https://github.com/tasneemghonemy-png/LeetCode-Solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1158-market-analysis-i](https://github.com/tasneemghonemy-png/LeetCode-Solutions/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/tasneemghonemy-png/LeetCode-Solutions/tree/master/1164-product-price-at-a-given-date) |
 ## Array
